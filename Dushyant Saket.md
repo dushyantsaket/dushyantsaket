@@ -23,84 +23,107 @@
 
 ### 🛠️ Skills (with image cards – inline styles)
 
-<!-- Frontend -->
-<h3 style="font-size:24px; font-weight:600; margin:30px 0 15px; border-bottom:2px solid #e1e4e8; padding-bottom:8px;">Frontend</h3>
+### 🛠️ Skills
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:20px 0;">
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">HTML5</p>
+<!-- Frontend -->
+<h3 style="font-size:22px; font-weight:600; margin:30px 0 20px; border-left:4px solid #0969da; padding-left:15px;">🎨 Frontend</h3>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(90px, 100px)); gap:20px; justify-content:center; margin:20px 0 30px;">
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">HTML5</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">CSS3</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">CSS3</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">JavaScript</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">JavaScript</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">React</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">React</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://cdn.worldvectorlogo.com/logos/redux.svg"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Redux</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Redux</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">TypeScript</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">TypeScript</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Bootstrap</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Bootstrap</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Tailwind</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Tailwind</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjfCCA-JfbeJfTnpJ7uEqlXPM77vUZ8Fk_w&s"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Next.js</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjfCCA-JfbeJfTnpJ7uEqlXPM77vUZ8Fk_w&s">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Next.js</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">VS Code</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">VS Code</p>
   </div>
 </div>
 
 <!-- Backend & Databases -->
-<h3 style="font-size:24px; font-weight:600; margin:30px 0 15px; border-bottom:2px solid #e1e4e8; padding-bottom:8px;">Backend & Databases</h3>
+<h3 style="font-size:22px; font-weight:600; margin:30px 0 20px; border-left:4px solid #0969da; padding-left:15px;">⚙️ Backend & Databases</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:20px 0;">
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Node.js</p>
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(90px, 100px)); gap:20px; justify-content:center; margin:20px 0 30px;">
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Node.js</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Express.js</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Express.js</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">MongoDB</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">MongoDB</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">PostgreSQL</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">PostgreSQL</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Postman</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Postman</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Git</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Git</p>
   </div>
 </div>
 
 <!-- AI & Cloud -->
-<h3 style="font-size:24px; font-weight:600; margin:30px 0 15px; border-bottom:2px solid #e1e4e8; padding-bottom:8px;">AI & Cloud</h3>
+<h3 style="font-size:22px; font-weight:600; margin:30px 0 20px; border-left:4px solid #0969da; padding-left:15px;">🤖 AI & Cloud</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:20px 0;">
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">OpenAI API</p>
+<div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(90px, 100px)); gap:20px; justify-content:center; margin:20px 0 30px;">
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">OpenAI API</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MHoa7F8iGLes6nN7qd2y2W0ZW2bQ4CyT7w&s"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Docker</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MHoa7F8iGLes6nN7qd2y2W0ZW2bQ4CyT7w&s">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Docker</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">AWS Lambda</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">AWS Lambda</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Netlify</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Netlify</p>
   </div>
-  <div style="text-align:center; width:90px; background:#f6f8fa; border-radius:12px; padding:12px 8px; transition:transform 0.2s; box-shadow:0 1px 3px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
-    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:8px;" src="https://logospng.org/download/vite-js/vite-js-4096-logo.png"><p style="font-size:12px; font-weight:500; margin:0; color:#24292f;">Vite</p>
+  <div style="display:flex; flex-direction:column; align-items:center; text-align:center; background:#f6f8fa; border-radius:12px; padding:14px 8px; transition:all 0.25s ease; box-shadow:0 1px 3px rgba(0,0,0,0.08);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.08)'">
+    <img style="width:48px; height:48px; object-fit:contain; margin-bottom:10px;" src="https://logospng.org/download/vite-js/vite-js-4096-logo.png">
+    <p style="font-size:13px; font-weight:500; margin:0; color:#24292f;">Vite</p>
   </div>
 </div>
 
