@@ -22,81 +22,126 @@
 ---
 
 ### 🛠️ Skills (with image cards)
-
 <style>
-  .skills-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    margin: 20px 0;
+  /* SCSS-inspired variables & nesting */
+  :root {
+    --card-bg: #ffffff;
+    --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    --card-hover-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    --border-radius: 16px;
+    --transition: all 0.25s ease;
+    --primary-color: #0969da;
   }
-  .skill-card {
-    text-align: center;
-    width: 90px;
-    background: #f6f8fa;
-    border-radius: 12px;
-    padding: 12px 8px;
-    transition: transform 0.2s;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+
+  .skills-section {
+    margin: 30px 0;
   }
-  .skill-card:hover {
-    transform: translateY(-5px);
-  }
-  .skill-img {
-    width: 48px;
-    height: 48px;
-    object-fit: contain;
-    margin-bottom: 8px;
-  }
-  .skill-name {
-    font-size: 12px;
-    font-weight: 500;
-    margin: 0;
-    color: #24292f;
-  }
+
   .section-title {
     font-size: 24px;
     font-weight: 600;
-    margin: 30px 0 15px;
-    border-bottom: 2px solid #e1e4e8;
+    margin: 30px 0 20px;
     padding-bottom: 8px;
+    border-bottom: 3px solid var(--primary-color);
+    display: inline-block;
+  }
+
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+    margin: 20px 0 30px;
+  }
+
+  .skill-card {
+    text-align: center;
+    width: 100px;
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    padding: 16px 8px;
+    transition: var(--transition);
+    box-shadow: var(--card-shadow);
+    border: 1px solid #eaeef2;
+    cursor: default;
+  }
+
+  .skill-card:hover {
+    transform: translateY(-6px);
+    box-shadow: var(--card-hover-shadow);
+    border-color: var(--primary-color);
+  }
+
+  .skill-img {
+    width: 54px;
+    height: 54px;
+    object-fit: contain;
+    margin-bottom: 12px;
+    transition: var(--transition);
+  }
+
+  .skill-card:hover .skill-img {
+    transform: scale(1.05);
+  }
+
+  .skill-name {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0;
+    color: #1f2328;
+    letter-spacing: -0.2px;
+  }
+
+  /* responsive */
+  @media (max-width: 600px) {
+    .skill-card {
+      width: 80px;
+      padding: 12px 4px;
+    }
+    .skill-img {
+      width: 42px;
+      height: 42px;
+    }
+    .skill-name {
+      font-size: 11px;
+    }
   }
 </style>
 
-<div class="section-title">Frontend</div>
-<div class="skills-grid">
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"><p class="skill-name">HTML5</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png"><p class="skill-name">CSS3</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><p class="skill-name">JavaScript</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"><p class="skill-name">React</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://cdn.worldvectorlogo.com/logos/redux.svg"><p class="skill-name">Redux</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"><p class="skill-name">TypeScript</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"><p class="skill-name">Bootstrap</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"><p class="skill-name">Tailwind</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjfCCA-JfbeJfTnpJ7uEqlXPM77vUZ8Fk_w&s"><p class="skill-name">Next.js</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"><p class="skill-name">VS Code</p></div>
-</div>
+<div class="skills-section">
+  <div class="section-title">🚀 Frontend</div>
+  <div class="skills-grid">
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"><p class="skill-name">HTML5</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png"><p class="skill-name">CSS3</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><p class="skill-name">JavaScript</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"><p class="skill-name">React</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://cdn.worldvectorlogo.com/logos/redux.svg"><p class="skill-name">Redux</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"><p class="skill-name">TypeScript</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"><p class="skill-name">Bootstrap</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"><p class="skill-name">Tailwind</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjfCCA-JfbeJfTnpJ7uEqlXPM77vUZ8Fk_w&s"><p class="skill-name">Next.js</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"><p class="skill-name">VS Code</p></div>
+  </div>
 
-<div class="section-title">Backend & Databases</div>
-<div class="skills-grid">
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"><p class="skill-name">Node.js</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"><p class="skill-name">Express.js</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"><p class="skill-name">MongoDB</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"><p class="skill-name">PostgreSQL</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://www.svgrepo.com/show/354202/postman-icon.svg"><p class="skill-name">Postman</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s"><p class="skill-name">Git</p></div>
-</div>
+  <div class="section-title">⚙️ Backend & Databases</div>
+  <div class="skills-grid">
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"><p class="skill-name">Node.js</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"><p class="skill-name">Express.js</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"><p class="skill-name">MongoDB</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"><p class="skill-name">PostgreSQL</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://www.svgrepo.com/show/354202/postman-icon.svg"><p class="skill-name">Postman</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s"><p class="skill-name">Git</p></div>
+  </div>
 
-<div class="section-title">AI & Cloud</div>
-<div class="skills-grid">
-  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"><p class="skill-name">OpenAI API</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MHoa7F8iGLes6nN7qd2y2W0ZW2bQ4CyT7w&s"><p class="skill-name">Docker</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png"><p class="skill-name">AWS Lambda</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"><p class="skill-name">Netlify</p></div>
-  <div class="skill-card"><img class="skill-img" src="https://logospng.org/download/vite-js/vite-js-4096-logo.png"><p class="skill-name">Vite</p></div>
+  <div class="section-title">🤖 AI & Cloud</div>
+  <div class="skills-grid">
+    <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"><p class="skill-name">OpenAI API</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MHoa7F8iGLes6nN7qd2y2W0ZW2bQ4CyT7w&s"><p class="skill-name">Docker</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png"><p class="skill-name">AWS Lambda</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"><p class="skill-name">Netlify</p></div>
+    <div class="skill-card"><img class="skill-img" src="https://logospng.org/download/vite-js/vite-js-4096-logo.png"><p class="skill-name">Vite</p></div>
+  </div>
 </div>
-
 ---
 
 ### 💼 Professional Experience
