@@ -17,49 +17,85 @@
 - 🤖 **AI Integration Expert** – RAG pipelines, LLM orchestration, AI feature development  
 - 🎓 **Internships** – Full Stack Developer @SURE Trust (current) | Frontend Developer @OLAcademy  
 - 🧪 **Clean Code & TDD** – Jest, unit testing, component-driven development  
-- 📍 Based in **Bhopal, India**  
-- ⚡ Fun fact: I love turning complex problems into intelligent, user‑centric solutions.
+- 📍 Based in **Bhopal, India**
 
 ---
 
-### 🛠️ Tech Stack (Production Ready)
+### 🛠️ Skills (with image cards)
 
-#### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+<style>
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  .skill-card {
+    text-align: center;
+    width: 90px;
+    background: #f6f8fa;
+    border-radius: 12px;
+    padding: 12px 8px;
+    transition: transform 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  .skill-card:hover {
+    transform: translateY(-5px);
+  }
+  .skill-img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    margin-bottom: 8px;
+  }
+  .skill-name {
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0;
+    color: #24292f;
+  }
+  .section-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 30px 0 15px;
+    border-bottom: 2px solid #e1e4e8;
+    padding-bottom: 8px;
+  }
+</style>
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+<div class="section-title">Frontend</div>
+<div class="skills-grid">
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"><p class="skill-name">HTML5</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png"><p class="skill-name">CSS3</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><p class="skill-name">JavaScript</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"><p class="skill-name">React</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://cdn.worldvectorlogo.com/logos/redux.svg"><p class="skill-name">Redux</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"><p class="skill-name">TypeScript</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"><p class="skill-name">Bootstrap</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"><p class="skill-name">Tailwind</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjfCCA-JfbeJfTnpJ7uEqlXPM77vUZ8Fk_w&s"><p class="skill-name">Next.js</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"><p class="skill-name">VS Code</p></div>
+</div>
 
-#### 🤖 AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-00A8E8?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat)
+<div class="section-title">Backend & Databases</div>
+<div class="skills-grid">
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"><p class="skill-name">Node.js</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"><p class="skill-name">Express.js</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"><p class="skill-name">MongoDB</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"><p class="skill-name">PostgreSQL</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://www.svgrepo.com/show/354202/postman-icon.svg"><p class="skill-name">Postman</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s"><p class="skill-name">Git</p></div>
+</div>
 
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-#### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+<div class="section-title">AI & Cloud</div>
+<div class="skills-grid">
+  <div class="skill-card"><img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"><p class="skill-name">OpenAI API</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MHoa7F8iGLes6nN7qd2y2W0ZW2bQ4CyT7w&s"><p class="skill-name">Docker</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png"><p class="skill-name">AWS Lambda</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"><p class="skill-name">Netlify</p></div>
+  <div class="skill-card"><img class="skill-img" src="https://logospng.org/download/vite-js/vite-js-4096-logo.png"><p class="skill-name">Vite</p></div>
+</div>
 
 ---
 
@@ -79,15 +115,13 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 Academia Hub – Community & Academic Management Platform
+#### 🔹 Academia Hub – Academic Management Platform
 - **MERN stack** + AI analytics dashboard | Real‑time attendance, JWT auth  
 - Optimized PostgreSQL queries – reduced report generation time by 60%  
-- [Live Demo](#) | [GitHub](#)
 
 #### 🔹 Online Academy Booking Platform
 - Location‑based booking system | REST APIs with rate limiting & caching  
 - Dockerized deployment | DB indexing improved search latency by 70%  
-- [Live Demo](#) | [GitHub](#)
 
 ---
 
