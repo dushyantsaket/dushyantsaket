@@ -6,7 +6,7 @@
 
 <h3>Building scalable web applications, backend systems and AI-powered products.</h3>
 
-<img src="updatedBanner.png" alt="Dushyant Saket Banner" width="100%" />
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000008708211987ad17249aeeb73&ts=496329&p=fs&cid=1&sig=48cee4229529af080d3e2b052189709324e946a67ef709b879ba15d35b9cee78&v=0" alt="Dushyant Saket Banner" width="100%" />
 
 <br/><br/>
 
