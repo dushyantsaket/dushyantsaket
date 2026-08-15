@@ -261,7 +261,7 @@ Focused on reusable frontend patterns and maintainable UI structure.
 <hr/>
 
 <div align="center">
-<h3>Six project front-page showcases covering full-stack architecture, backend workflows, cloud deployment and production application design.</h3>
+<h3>project front-page showcases covering full-stack architecture, backend workflows, cloud deployment and production application design.</h3>
 <table align="center">
 <tr><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQH9XQLFB7k0gg/feedshare-shrink_480/B56Z_7U2UxGQAs-/0/1786627974840?e=1788393600&v=beta&t=a5LWxEf3kgm0iE9Ym0L4Ea9Y0PRpCFdE_ggDykLYhCA" alt="Backend showcase 01" width="100%"/></td><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQF2X7CCPDGXjQ/feedshare-shrink_480/B56Z_7UzrMG0Ag-/0/1786627963862?e=1788393600&v=beta&t=_Y259lxnKYyvhIk3JTQFjH0ur01_iTjuRfC-gO49aeE" alt="Backend showcase 02" width="100%"/></td></tr>
 <tr><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQF3UFQRaMszMA/feedshare-shrink_480/B56Z_7UzkKHAAk-/0/1786627963483?e=1788393600&v=beta&t=Y4GqCl5jLOCDb3lO47IWvm64m3JvR8aKHvhywgcXYUE" alt="Backend showcase 03" width="100%"/></td><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQFd-YcDb0esdQ/feedshare-shrink_480/B56Z_7Uzt5JMAk-/0/1786627964071?e=1788393600&v=beta&t=agk7rRJzMHB0FXKo7Nw_XTQV5vhFhRMWmL2YYw-G2K8" alt="Backend showcase 04" width="100%"/></td></tr>
