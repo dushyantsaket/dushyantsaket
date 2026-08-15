@@ -63,6 +63,10 @@ Experienced in building scalable web platforms and AI-powered applications with 
 <h1 align="center">💼 PROFESSIONAL EXPERIENCE</h1>
 <hr/>
 
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9DFwaczP6jwmq5MCQW9ePPXjwXlhKOhrd1o9W5MsJKQ&s=10" alt="SURE Trust logo" width="110"/>
+</div>
+
 <h2>🏢 SURE Trust | Gulf News</h2>
 <h3>Full Stack Developer Intern · 2025 – 2026</h3>
 
@@ -70,7 +74,7 @@ Experienced in building scalable web platforms and AI-powered applications with 
 <tr>
 <td width="50%" valign="top">
 
-<h3>Backend & Application Engineering</h3>
+<h3>⚙️ Backend & Application Engineering</h3>
 
 Built full-stack applications using <strong>React.js, Node.js, Express.js, MongoDB and Redis</strong>.
 
@@ -83,7 +87,7 @@ Containerized applications with <strong>Docker</strong>.
 </td>
 <td width="50%" valign="top">
 
-<h3>Cloud & AI Integration</h3>
+<h3>☁️ Cloud & AI Integration</h3>
 
 Worked with <strong>AWS Lambda</strong> for deployment workflows.
 
@@ -99,6 +103,10 @@ Contributed across development, integration and deployment workflows.
 
 <br/>
 
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwJsBxXGFfUpzvb0vOLbp9PnlBLlgvtrHUN1vlRgq1w&s=10" alt="Olacademy logo" width="110"/>
+</div>
+
 <h2>🏢 Olacademy</h2>
 <h3>Frontend Developer Intern · 2024 – 2025</h3>
 
@@ -106,7 +114,7 @@ Contributed across development, integration and deployment workflows.
 <tr>
 <td width="50%" valign="top">
 
-<h3>Frontend Development</h3>
+<h3>🎨 Frontend Development</h3>
 
 Developed interactive and responsive interfaces using <strong>React.js</strong>.
 
@@ -115,7 +123,7 @@ Built reusable and maintainable React components for application features.
 </td>
 <td width="50%" valign="top">
 
-<h3>State Management</h3>
+<h3>🧠 State Management</h3>
 
 Worked with <strong>Redux</strong> for centralized application state.
 
@@ -234,6 +242,33 @@ Focused on reusable frontend patterns and maintainable UI structure.
 </table>
 </div>
 
+<h1 align="center">🧰 DEVOPS & SOFTWARE INTEGRATION</h1>
+<hr/>
+
+<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="145"><img src="https://skillicons.dev/icons?i=githubactions" width="78"/><br/><strong>GitHub Actions</strong></td>
+<td align="center" width="145"><img src="https://img.shields.io/badge/CI%2FCD-2F81F7?style=for-the-badge&logo=githubactions&logoColor=white" width="105"/><br/><strong>CI / CD</strong></td>
+<td align="center" width="145"><img src="https://img.shields.io/badge/API%20Integration-0A66C2?style=for-the-badge" width="105"/><br/><strong>API Integration</strong></td>
+<td align="center" width="145"><img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" width="105"/><br/><strong>Webhooks</strong></td>
+<td align="center" width="145"><img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge" width="105"/><br/><strong>OAuth</strong></td>
+</tr>
+</table>
+</div>
+
+<h1 align="center">🖼️ BUILDING A SCALABLE WEB BACKEND</h1>
+<hr/>
+
+<div align="center">
+<h3>Six project front-page showcases covering full-stack architecture, backend workflows, cloud deployment and production application design.</h3>
+<table align="center">
+<tr><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQH9XQLFB7k0gg/feedshare-shrink_480/B56Z_7U2UxGQAs-/0/1786627974840?e=1788393600&v=beta&t=a5LWxEf3kgm0iE9Ym0L4Ea9Y0PRpCFdE_ggDykLYhCA" alt="Backend showcase 01" width="100%"/></td><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQF2X7CCPDGXjQ/feedshare-shrink_480/B56Z_7UzrMG0Ag-/0/1786627963862?e=1788393600&v=beta&t=_Y259lxnKYyvhIk3JTQFjH0ur01_iTjuRfC-gO49aeE" alt="Backend showcase 02" width="100%"/></td></tr>
+<tr><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQF3UFQRaMszMA/feedshare-shrink_480/B56Z_7UzkKHAAk-/0/1786627963483?e=1788393600&v=beta&t=Y4GqCl5jLOCDb3lO47IWvm64m3JvR8aKHvhywgcXYUE" alt="Backend showcase 03" width="100%"/></td><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQFd-YcDb0esdQ/feedshare-shrink_480/B56Z_7Uzt5JMAk-/0/1786627964071?e=1788393600&v=beta&t=agk7rRJzMHB0FXKo7Nw_XTQV5vhFhRMWmL2YYw-G2K8" alt="Backend showcase 04" width="100%"/></td></tr>
+<tr><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQG1UIx4u8rUxw/feedshare-shrink_480/B56Z_7UxGpG0Ag-/0/1786627953358?e=1788393600&v=beta&t=qt6hUL3DZL-e9xTe4OHnv9CO7ZmP-KKbgcTl2esi0gQ" alt="Backend showcase 05" width="100%"/></td><td align="center" width="48%"><img src="https://media.licdn.com/dms/image/v2/D5622AQG_ZVu01Fetgw/feedshare-shrink_480/B56Z_7U0XNGgAk-/0/1786627966727?e=1788393600&v=beta&t=q9MPVEKdhd_e4-3o6ZQJMUNOSA35eVL8-q211pfwhBQ" alt="Backend showcase 06" width="100%"/></td></tr>
+</table>
+</div>
+
 <h1 align="center">🚀 PROJECT ZONE</h1>
 <hr/>
 
@@ -243,6 +278,18 @@ Focused on reusable frontend patterns and maintainable UI structure.
 
 <h2>🛒 DPT Tools India</h2>
 <h3>Enterprise Power Tools Platform</h3>
+<h4>📦 Platform Modules & Admin Workflow</h4>
+
+Product catalog & category management
+
+Inventory & stock management
+
+Order processing & tracking
+
+Super Admin / Admin / Staff operations
+
+User & employee activity monitoring
+
 <hr/>
 
 <div align="center">
@@ -321,7 +368,14 @@ Integrated catalogue, inventory, order and user-management modules.
 Designed as a modular full-stack system for future feature expansion.
 
 <h2>☁️ Storage App</h2>
-<h3>Cloud Storage Platform · Under Maintenance</h3>
+<h3>Cloud Storage Platform</h3>
+
+<div align="center">
+<table align="center" style="border:2px solid #d32f2f;">
+<tr><td align="center"><strong>🔴 UNDER MAINTENANCE</strong><br/>This site is currently under maintenance and cannot be opened.</td></tr>
+</table>
+</div>
+
 <hr/>
 
 <div align="center">
@@ -386,6 +440,20 @@ Subscription-aware quota management and lifecycle handling.
 Secure access patterns around stored files and delivery infrastructure.
 
 <h2>🌐 Personal Portfolio Website</h2>
+<div align="center"><table align="center"><tr><td><img src="https://media.licdn.com/dms/image/v2/D5622AQFzrUoPzZz8Gw/feedshare-shrink_480/B56Z_yDox4GcAg-/0/1786472467869?e=1788393600&v=beta&t=gert0CXJ_gUTaUAoX8rW1EQHcoDCXB4ycbtOdmK2dBU" alt="Portfolio showcase 01" width="100%"/></td><td><img src="https://media.licdn.com/dms/image/v2/D5622AQFS-q5mTmco8w/feedshare-shrink_480/B56Z_yDpNrGQAg-/0/1786472469636?e=1788393600&v=beta&t=nBVSUSmn8OOGdrQpi4hJuNKeCqLdqVagNcXnX0-nVO8" alt="Portfolio showcase 02" width="100%"/></td></tr><tr><td><img src="https://media.licdn.com/dms/image/v2/D5622AQE5YVv0UgzH-g/feedshare-shrink_480/B56Z_yDpJYJMAk-/0/1786472469334?e=1788393600&v=beta&t=l4c_r_4_E2IWOi-8mDwyG3mRkUDoxI5aysDdm2i39C4" alt="Portfolio showcase 03" width="100%"/></td><td><img src="https://media.licdn.com/dms/image/v2/D5622AQEG-dMD6npSyQ/feedshare-shrink_480/B56Z_yDpgOGgAk-/0/1786472470824?e=1788393600&v=beta&t=wcXigfyvpneksfpzMFr_rM0ynTD39cPw6k4-WrAcHzc" alt="Portfolio showcase 04" width="100%"/></td></tr></table></div>
+
+<h4>🧩 Portfolio Modules</h4>
+
+Hero / profile section
+
+Project showcase
+
+Technical skills & experience
+
+Contact / inquiry flow
+
+Responsive portfolio UI
+
 <h3>Modern Full-Stack Portfolio & Professional Showcase</h3>
 <hr/>
 
@@ -435,7 +503,27 @@ Focus on maintainability and responsive UX.
 </table>
 
 <h2>🌳 Forest Department Management Dashboard</h2>
-<h3>Role-Based Department Management Platform · Under Maintenance</h3>
+<div align="center"><img src="https://media.licdn.com/dms/image/v2/D5622AQG1UIx4u8rUxw/feedshare-shrink_480/B56Z_7UxGpG0Ag-/0/1786627953358?e=1788393600&v=beta&t=qt6hUL3DZL-e9xTe4OHnv9CO7ZmP-KKbgcTl2esi0gQ" alt="Forest Department project showcase" width="92%"/></div>
+
+<h4>🧩 Management Modules</h4>
+
+Tree-felling records
+
+Plantation-drive records
+
+Forest-area data
+
+Departmental updates
+
+Role-based administration
+
+<h3>Role-Based Department Management Platform</h3>
+
+<div align="center">
+<table align="center" style="border:2px solid #d32f2f;">
+<tr><td align="center"><strong>🔴 UNDER MAINTENANCE</strong><br/>This site is currently under maintenance and cannot be opened.</td></tr>
+</table>
+</div>
 <hr/>
 
 <div align="center">
@@ -502,14 +590,14 @@ Modular architecture intended for future departmental expansion.
 <div align="center">
 <table align="center">
 <tr>
-<td align="center" width="260"><h3>🏅 C++ SkillUp</h3><p>Programming Certification</p></td>
-<td align="center" width="260"><h3>🏅 TCS iON</h3><p>Young Professional</p></td>
-<td align="center" width="260"><h3>🏅 JPMorgan Chase & Co.</h3><p>Software Engineering</p></td>
+<td align="center" width="190"><h3>🏅 C++ SkillUp</h3><p>Programming Certification</p></td>
+<td align="center" width="190"><h3>🏅 TCS iON</h3><p>Young Professional</p></td>
+<td align="center" width="190"><h3>🏅 JPMorgan Chase & Co.</h3><p>Software Engineering</p></td>
 </tr>
 <tr>
-<td align="center" width="260"><h3>☁️ AWS</h3><p>AWS Cloud Practitioner</p></td>
-<td align="center" width="260"><h3>📜 Additional Certification</h3><p>Details not listed in the supplied resume</p></td>
-<td align="center" width="260"><h3>📜 Additional Certification</h3><p>Details not listed in the supplied resume</p></td>
+<td align="center" width="190"><h3>☁️ AWS</h3><p>AWS Cloud Practitioner</p></td>
+<td align="center" width="190"><h3>📜 Additional Certificate</h3><p>Certificate detail to be inserted</p></td>
+<td align="center" width="190"><h3>📜 Additional Certificate</h3><p>Certificate detail to be inserted</p></td>
 </tr>
 </table>
 
