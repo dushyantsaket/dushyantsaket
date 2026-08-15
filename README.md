@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=120&section=footer" width="100%"/>
+</div>
 <h1>👋 Hi, I'm <strong>Dushyant Saket</strong></h1>
 
 <h2>Full Stack Developer | MERN Stack | AI Integration | System Design</h2>
