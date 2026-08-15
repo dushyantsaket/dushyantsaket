@@ -2,612 +2,1088 @@
 
 👋 Hi, I'm Dushyant Saket
 
-🚀 A Passionate Full Stack Developer | MERN | AI Integration | System Design
+<h2>Full Stack Developer | MERN Stack | AI Integration | System Design</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Dushyant Saket Hero" width="900" />
+<h3>Building scalable web applications, backend systems and AI-powered products.</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" alt="GitHub stars" /></a>
-</p>
+<img src="updatedBanner.png" alt="Dushyant Saket Banner" width="100%" />
+
+<br/>
+
+<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-View%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-🧑‍💻 About Me
+🧑‍💻 PROFESSIONAL SUMMARY
 
-<img align="right" src="./assets/about.gif" alt="Coding" width="320" />
-
-🧑‍💻 I'm a Full Stack Developer specializing in the MERN Stack.
-
-🎓 B.Sc. Computer Science (2023–2026) — Oriental University, Indore.
-
-🏗️ I build scalable, secure and production-oriented web applications.
-
-🤖 Exploring Agentic AI, N8N, OpenAI API and LLM integration.
-
-☁️ Working with AWS, Docker, Redis and cloud deployment.
-
-🔐 Experienced with JWT, OTP, Google OAuth, RBAC, rate limiting and secure sessions.
-
-⚙️ Interested in System Design, Backend Engineering, APIs and performance optimization.
-
-📚 I enjoy learning new technologies and turning ideas into real products.
-
-🎯 What I am currently working on
-
-Building full-stack applications with React.js + Node.js + Express.js + MongoDB + Redis, while integrating AI-powered features and cloud infrastructure.
-
-🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dushyant-choudhuary-aa20b52b2/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42"/>
-  </a>
-  <a href="mailto:dushyantsaket20@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.icons8.com/ios-filled/48/181717/github.png" alt="GitHub" width="42"/>
-  </a>
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="42"/>
-  </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.icons8.com/color/48/twitterx.png" alt="X / Twitter" width="42"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="42"/>
-  </a>
-</p>
-
-🌟 Highlights
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="900">
 
-💻 Development
+<h3>Full Stack Developer with a B.Sc. in Computer Science and internship experience in MERN stack, RESTful APIs, MongoDB, system design and AI integration.</h3>
 
-MERN Stack Development
-
-RESTful API Design
-
-Scalable Backend Services
-
-React + Redux
-
-Node.js + Express.js
-
-MongoDB + Redis
-
-</td>
-<td width="50%">
-
-☁️ Cloud & DevOps
-
-AWS S3
-
-AWS CloudFront
-
-AWS EC2
-
-AWS Lambda
-
-Docker
-
-Git & GitHub
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🤖 AI Engineering
-
-OpenAI API
-
-LLM Integration
-
-Agentic AI
-
-N8N
-
-AI-powered application features
-
-AI workflow automation
-
-</td>
-<td width="50%">
-
-🔐 Security & Architecture
-
-JWT Authentication
-
-OTP Verification
-
-Google OAuth
-
-RBAC
-
-Rate Limiting
-
-Redis Sessions
-
-Caching
-
-Load Balancing
-
-Microservices concepts
+<p>
+Experienced in building scalable web platforms and AI-powered applications with a strong focus on backend development, cloud deployment, authentication, caching and production-ready architecture.
+</p>
 
 </td>
 </tr>
 </table>
 
-🏆 Achievements & Certifications
+</div>
 
-<p align="center">
-  <img src="./assets/achievements.png" alt="Achievements" width="850" />
-</p>
-
-🎓 B.Sc. Computer Science — Oriental University, Indore
-
-📜 8+ certifications
-
-☁️ AWS Cloud Practitioner
-
-💻 C++ SkillUp
-
-🏢 TCS iQN Young Professional
-
-💼 Software Engineering — JPMorgan Chase & Co.
-
-🚀 Hands-on experience with MERN, AWS, Redis, Docker and AI integration
-
-💼 Professional Experience
-
-🔹 Full Stack Developer Intern — SURE Trust | Gulf News
-
-2025 – 2026
-
-Built full-stack applications using React.js, Node.js, Express.js, MongoDB and Redis.
-
-Designed and developed RESTful APIs and scalable backend services.
-
-Integrated Agentic AI and N8N APIs for intelligent application features.
-
-Containerized applications using Docker.
-
-Worked in team-based development with weekly sprint cycles.
-
-🔹 Frontend Developer Intern — Olacademy
-
-2024 – 2025
-
-Developed interactive and responsive interfaces using React.js.
-
-Created reusable and maintainable React components.
-
-Used Redux for centralized state management.
-
-Worked on frontend architecture and user-facing application features.
-
-🧰 Languages, Frameworks & Tools
-
-🎨 Frontend Skills
-
-<p align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="70" height="70" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="70" height="70" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70" height="70" />
-</a>
-<a href="https://react.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="70" height="70" />
-</a>
-<a href="https://redux.js.org/">
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Toolkit" width="70" height="70" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="70" height="70" />
-</a>
-<a href="https://getbootstrap.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="70" height="70" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="70" height="70" />
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="70" height="70" />
-</a>
-
-</p>
-
-⚙️ Backend Skills & Tools
-
-<p align="center">
-
-<a href="https://nodejs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="70" height="70" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="70" height="70" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="70" height="70" />
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL / MySQL" width="70" height="70" />
-</a>
-<a href="https://www.postman.com/">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="70" height="70" />
-</a>
-<a href="https://github.com/">
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="70" height="70" />
-</a>
-<a href="https://gitlab.com/">
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" width="70" height="70" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="70" height="70" />
-</a>
-<a href="https://vercel.com/">
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="70" height="70" />
-</a>
-<a href="https://vite.dev/">
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="70" height="70" />
-</a>
-
-</p>
-
-🎨 UI Libraries, Cloud & DevOps
-
-<p align="center">
-
-<a href="https://react.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="70" height="70" />
-</a>
-<a href="https://vuejs.org/">
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" width="70" height="70" />
-</a>
-<a href="https://angular.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="70" height="70" />
-</a>
-<a href="https://svelte.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png" alt="Svelte" width="70" height="70" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="70" height="70" />
-</a>
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="70" height="70" />
-</a>
-<a href="https://redis.io/">
-  <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="70" height="70" />
-</a>
-<a href="https://firebase.google.com/">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="70" height="70" />
-</a>
-
-</p>
-
-🤖 AI & Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/LLM%20Integration-111827?style=for-the-badge" alt="LLM Integration" />
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
-<img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge" alt="REST API" />
-<img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" alt="System Design" />
-<img src="https://img.shields.io/badge/RBAC-16A34A?style=for-the-badge" alt="RBAC" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-</p>
-
-🚀 Project Zone
-
-1️⃣ DPT Tools India — Enterprise Power Tools Platform
-
-<img src="./assets/dpt-tools.png" alt="DPT Tools India" width="100%" />
-
-Tech Stack: React.js Node.js Express.js MongoDB Redis AWS
-
-Key Features
-
-🛒 Product catalog and e-commerce workflows
-
-📦 Inventory management
-
-📋 Order management and tracking
-
-👨‍💼 Enterprise Admin Dashboard
-
-🔐 RBAC — Super Admin, Admin and Staff
-
-🔑 JWT Authentication
-
-🔄 Redis Session Management
-
-📱 OTP Verification
-
-🔵 Google OAuth
-
-🛡️ Rate Limiting
-
-📝 Activity Logging
-
-📊 Sales analytics and employee activity monitoring
-
-2️⃣ Storage App — Cloud Storage Platform
-
-<img src="./assets/storage-app.png" alt="Storage App" width="100%" />
-
-Tech Stack: React.js Node.js Express.js MongoDB Redis AWS S3 CloudFront
-
-Key Features
-
-☁️ Secure cloud file upload and management
-
-🔗 File sharing
-
-📊 Real-time storage tracking
-
-💳 Subscription-based storage plans
-
-🔄 Plan upgrade / downgrade / cancellation workflows
-
-🎯 Automatic quota enforcement
-
-🔐 Admin and Super Admin dashboards
-
-🗑️ Soft-delete and hard-delete workflows
-
-🪣 AWS S3 object storage
-
-🚀 CloudFront CDN delivery
-
-🪝 Webhook verification
-
-3️⃣ Personal Portfolio Website
-
-<img src="./assets/portfolio.png" alt="Portfolio Website" width="100%" />
-
-Tech Stack: Next.js React.js JavaScript Tailwind CSS Jest
-
-Modern responsive portfolio
-
-Project, skills and experience sections
-
-Working contact form
-
-Direct email functionality
-
-Jest-based frontend testing
-
-4️⃣ Forest Department Management Dashboard
-
-<img src="./assets/forest-dashboard.png" alt="Forest Department Dashboard" width="100%" />
-
-Status: 🚧 Under Maintenance
-
-Tech Stack: React.js Redux Toolkit Node.js Express.js MongoDB Redis
-
-Role-based management dashboard
-
-Tree-felling records
-
-Plantation drive management
-
-Forest area data
-
-Department updates
-
-Protected routes
-
-Authentication and authorization
-
-Admin Panel and User Management
-
-Modular backend architecture
-
-🧠 AI / Multi-Model Zone
-
-<p align="center">
-  <img src="./assets/ai-banner.png" alt="AI and Multi Model Zone" width="900" />
-</p>
-
-🔥 My AI Focus
-
-Area
-
-Technologies
-
-🧠 LLM
-
-OpenAI API, LLM Integration
-
-🤖 Agentic Systems
-
-Agentic AI, N8N
-
-🔌 APIs
-
-REST APIs, AI APIs
-
-⚡ Automation
-
-N8N workflows
-
-🏗️ Architecture
-
-AI-powered application features
-
-🔐 Security
-
-JWT, OAuth, Rate Limiting
-
-My goal is to combine full-stack engineering + cloud + AI to build practical software products rather than isolated demos.
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="170" />
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" />
-</p>
-
-📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-</p>
-
-📂 Project Showcase
-
-Add your additional personal projects here. You can keep expanding this section as your GitHub portfolio grows.
-
-Project
-
-Tech
-
-Link
-
-🛠️ DPT Tools India
-
-MERN + Redis + AWS
-
-YOUR_PROJECT_URL
-
-☁️ Storage App
-
-MERN + S3 + CloudFront
-
-YOUR_PROJECT_URL
-
-🌐 Portfolio
-
-Next.js + React
-
-YOUR_PORTFOLIO_URL
-
-🌳 Forest Dashboard
-
-MERN + Redis
-
-YOUR_PROJECT_URL
-
-📫 How to Reach Me
-
-Platform
-
-Link
-
-💼 LinkedIn
-
-Dushyant Choudhuary
-
-📧 Email
-
-dushyantsaket20@gmail.com
-
-🐙 GitHub
-
-YOUR_GITHUB_URL
-
-▶️ YouTube
-
-YOUR_YOUTUBE_URL
-
-𝕏 X / Twitter
-
-YOUR_TWITTER_URL
-
-🌐 Portfolio
-
-YOUR_PORTFOLIO_URL
-
-👀 Profile & Community
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Total%20Stars" />
-</p>
-
-🎯 Career Focus
-
-Open to
-
-Full Stack Developer · MERN Developer · Backend Developer · Software Engineer · AI-Integrated Application Developer
-
-I like building
-
-Scalable + Secure + Performant + Cloud-ready + AI-enabled applications
+🎓 EDUCATION
 
 <div align="center">
 
-💙 Thanks for visiting my profile!
+Oriental University, Indore
 
-Build • Learn • Deploy • Scale 🚀
+B.Sc. Computer Science · 2023 – 2026
+
+<table align="center">
+<tr>
+<td align="center"><b>Database Management Systems</b></td>
+<td align="center"><b>Operating Systems</b></td>
+<td align="center"><b>Computer Networks</b></td>
+<td align="center"><b>Frontend Development</b></td>
+<td align="center"><b>Backend Development</b></td>
+</tr>
+</table>
 
 </div>
 
+💼 PROFESSIONAL EXPERIENCE
 
-==========================================================
-CUSTOMIZATION / IMAGE SETUP
-==========================================================
+<div align="center">
 
-Put these images inside an `assets` folder in the same profile repository:
+SURE Trust | Gulf News
 
-assets/
-├── hero.gif
-├── about.gif
-├── achievements.png
-├── dpt-tools.png
-├── storage-app.png
-├── portfolio.png
-├── forest-dashboard.png
-└── ai-banner.png
+Full Stack Developer Intern · 2025 – 2026
 
-Also replace:
-- YOUR_GITHUB_USERNAME
-- YOUR_GITHUB_URL
-- YOUR_YOUTUBE_URL
-- YOUR_TWITTER_URL
-- YOUR_PORTFOLIO_URL
-- YOUR_PROJECT_URL
+</div>
 
-Recommended image sizes:
-hero.gif            -> 1200 x 350
-about.gif           -> 500 x 500
-achievements.png    -> 1200 x 500
-project screenshots -> 1400 x 700
-ai-banner.png       -> 1200 x 400
+Highlights
 
-You can upload your own screenshots / banners / GIFs and replace
-the files above without changing the README structure.
-==========================================================
--->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Built full-stack applications using React.js, Node.js, Express.js, MongoDB and Redis.
+
+Designed and implemented RESTful APIs and scalable backend services.
+
+Containerized applications using Docker.
+
+</td>
+<td width="50%" valign="top">
+
+Worked with AWS Lambda for deployment workflows.
+
+Integrated Agentic AI and N8N APIs for intelligent application features.
+
+Coordinated development work through mandatory weekly sprint meetings.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+Olacademy
+
+Frontend Developer Intern · 2024 – 2025
+
+</div>
+
+Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developed interactive and responsive user interfaces using React.js.
+
+Built reusable and maintainable React components.
+
+</td>
+<td width="50%" valign="top">
+
+Worked with Redux for centralized state management.
+
+Improved application structure through reusable frontend patterns.
+
+</td>
+</tr>
+</table>
+
+🏆 EXPERIENCE HIGHLIGHTS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+<h2>01</h2>
+<b>MERN Development</b><br/>
+React · Node · Express · MongoDB
+</td>
+<td align="center" width="180">
+<h2>02</h2>
+<b>AI Integration</b><br/>
+Agentic AI · N8N · OpenAI API
+</td>
+<td align="center" width="180">
+<h2>03</h2>
+<b>Cloud Deployment</b><br/>
+AWS · Docker
+</td>
+<td align="center" width="180">
+<h2>04</h2>
+<b>Backend Engineering</b><br/>
+REST APIs · Redis · System Design
+</td>
+</tr>
+</table>
+
+</div>
+
+🛠️ TECHNICAL SKILLS
+
+🌐 Frontend Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=html" width="70"/><br/><b>HTML5</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=css" width="70"/><br/><b>CSS3</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=js" width="70"/><br/><b>JavaScript</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=react" width="70"/><br/><b>React.js</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=redux" width="70"/><br/><b>Redux</b></td>
+</tr>
+</table>
+
+</div>
+
+⚙️ Backend Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=nodejs" width="70"/><br/><b>Node.js</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=express" width="70"/><br/><b>Express.js</b></td>
+<td align="center" width="115"><img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge" width="85"/><br/><b>REST API</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=firebase" width="70"/><br/><b>Firebase</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=redis" width="70"/><br/><b>Redis</b></td>
+</tr>
+</table>
+
+</div>
+
+🤖 AI & Intelligent Systems
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Agentic%20AI-7f00ff?style=for-the-badge" width="95"/><br/><b>Agentic AI</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="95"/><br/><b>N8N</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="95"/><br/><b>OpenAI API</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/LLM-Integration-412991?style=for-the-badge" width="95"/><br/><b>LLM Integration</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AI%20Features-3549ff?style=for-the-badge" width="95"/><br/><b>AI Features</b></td>
+</tr>
+</table>
+
+</div>
+
+🗄️ Databases
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br/><b>MongoDB</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mysql" width="70"/><br/><b>MySQL</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=redis" width="70"/><br/><b>Redis</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/DBMS-444444?style=for-the-badge" width="95"/><br/><b>DBMS</b></td>
+</tr>
+</table>
+
+</div>
+
+☁️ Cloud & Deployment
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=aws" width="70"/><br/><b>AWS</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=azure" width="70"/><br/><b>Azure</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=docker" width="70"/><br/><b>Docker</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" width="95"/><br/><b>S3</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="95"/><br/><b>CloudFront</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="95"/><br/><b>EC2</b></td>
+</tr>
+</table>
+
+</div>
+
+🧱 System Design & Core CS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Scalable%20Architecture-4C8BF5?style=for-the-badge" width="130"/><br/><b>Scalable Architecture</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Microservices-555555?style=for-the-badge" width="130"/><br/><b>Microservices</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Caching-00A98F?style=for-the-badge" width="130"/><br/><b>Caching</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Load%20Balancing-6C63FF?style=for-the-badge" width="130"/><br/><b>Load Balancing</b></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center"><b>Operating Systems</b></td>
+<td align="center"><b>Memory Management</b></td>
+<td align="center"><b>Computer Networks</b></td>
+<td align="center"><b>Git</b></td>
+<td align="center"><b>GitHub</b></td>
+</tr>
+</table>
+
+</div>
+
+🚀 PROJECTS
+
+<div align="center">
+
+PROJECT ZONE
+
+Production-focused applications built across full-stack, cloud and enterprise workflows.
+
+</div>
+
+🛒 DPT Tools India
+
+Enterprise Power Tools Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developed a full-stack power tools e-commerce and business management platform.
+
+Implemented product catalog and inventory management.
+
+Built order management workflows.
+
+Developed an enterprise admin dashboard.
+
+</td>
+<td width="50%" valign="top">
+
+Added role-based access for Super Admin, Admin and Staff.
+
+Added JWT authentication and Redis session management.
+
+Implemented OTP verification and Google OAuth.
+
+Added rate limiting and activity logging.
+
+</td>
+</tr>
+</table>
+
+☁️ Storage App
+
+Cloud Storage Platform · Under Maintenance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Built a cloud storage platform for secure file upload, management and sharing.
+
+Added real-time storage tracking.
+
+Designed subscription-based storage plans.
+
+Implemented plan upgrades, downgrades and cancellations.
+
+</td>
+<td width="50%" valign="top">
+
+Added webhook verification and quota enforcement.
+
+Implemented Admin and Super Admin dashboards.
+
+Added soft and hard deletion workflows.
+
+Integrated AWS S3 + CloudFront for optimized file delivery.
+
+</td>
+</tr>
+</table>
+
+🌐 Personal Portfolio Website
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Designed and developed a modern responsive portfolio.
+
+Built interactive Projects, Skills and Contact sections.
+
+Added a direct email contact form.
+
+</td>
+<td width="50%" valign="top">
+
+Implemented Jest-based testing.
+
+Optimized responsive user experience.
+
+Showcased React, Next.js, TypeScript, Node.js and modern development tools.
+
+</td>
+</tr>
+</table>
+
+🌳 Forest Department Management Dashboard
+
+Under Maintenance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developing a role-based management dashboard for tree-felling records and plantation drives.
+
+Managing forest-area data and departmental updates.
+
+Building dashboards for users, administrators and management operations.
+
+</td>
+<td width="50%" valign="top">
+
+Implementing authentication and authorization.
+
+Protected routes and specialized admin controls.
+
+Centralized user management and modular backend architecture.
+
+</td>
+</tr>
+</table>
+
+📜 CERTIFICATIONS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="210"><h3>🏅 C++ SkillUp</h3><p>Programming Certification</p></td>
+<td align="center" width="210"><h3>🏅 TCS iON</h3><p>Young Professional</p></td>
+</tr>
+<tr>
+<td align="center" width="210"><h3>🏅 JPMorgan Chase & Co.</h3><p>Software Engineering</p></td>
+<td align="center" width="210"><h3>☁️ AWS</h3><p>AWS Cloud Practitioner</p></td>
+</tr>
+</table>
+
+<p><b>8+ certifications</b> are referenced in the professional summary; the resume explicitly lists the certifications above.</p>
+
+</div>
+
+📌 CORE ENGINEERING FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200"><h3>⚡ Performance</h3>API Optimization · Caching</td>
+<td align="center" width="200"><h3>🔐 Security</h3>JWT · OAuth · RBAC · Rate Limiting</td>
+<td align="center" width="200"><h3>☁️ Cloud</h3>AWS · Azure · Docker</td>
+<td align="center" width="200"><h3>🤖 AI</h3>Agentic AI · N8N · LLM Integration</td>
+</tr>
+</table>
+
+</div>
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+🔥 GITHUB STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+🔗 CONNECT WITH ME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" width="65"/></a><br/>
+<b>LinkedIn</b>
+</td>
+<td align="center" width="140">
+<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github" width="65"/></a><br/>
+<b>GitHub</b>
+</td>
+<td align="center" width="140">
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" width="65"/></a><br/>
+<b>Email</b>
+</td>
+<td align="center" width="140">
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.icons8.com/fluency/96/domain.png" width="65"/></a><br/>
+<b>Portfolio</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+👀 PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+🚀 Build · Learn · Deploy · Scale
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div><div align="center">
+
+👋 Hi, I'm Dushyant Saket
+
+<h2>Full Stack Developer | MERN Stack | AI Integration | System Design</h2>
+
+<h3>Building scalable web applications, backend systems and AI-powered products.</h3>
+
+<img src="updatedBanner.png" alt="Dushyant Saket Banner" width="100%" />
+
+<br/>
+
+<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-View%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+🧑‍💻 PROFESSIONAL SUMMARY
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="900">
+
+<h3>Full Stack Developer with a B.Sc. in Computer Science and internship experience in MERN stack, RESTful APIs, MongoDB, system design and AI integration.</h3>
+
+<p>
+Experienced in building scalable web platforms and AI-powered applications with a strong focus on backend development, cloud deployment, authentication, caching and production-ready architecture.
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+🎓 EDUCATION
+
+<div align="center">
+
+Oriental University, Indore
+
+B.Sc. Computer Science · 2023 – 2026
+
+<table align="center">
+<tr>
+<td align="center"><b>Database Management Systems</b></td>
+<td align="center"><b>Operating Systems</b></td>
+<td align="center"><b>Computer Networks</b></td>
+<td align="center"><b>Frontend Development</b></td>
+<td align="center"><b>Backend Development</b></td>
+</tr>
+</table>
+
+</div>
+
+💼 PROFESSIONAL EXPERIENCE
+
+<div align="center">
+
+SURE Trust | Gulf News
+
+Full Stack Developer Intern · 2025 – 2026
+
+</div>
+
+Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Built full-stack applications using React.js, Node.js, Express.js, MongoDB and Redis.
+
+Designed and implemented RESTful APIs and scalable backend services.
+
+Containerized applications using Docker.
+
+</td>
+<td width="50%" valign="top">
+
+Worked with AWS Lambda for deployment workflows.
+
+Integrated Agentic AI and N8N APIs for intelligent application features.
+
+Coordinated development work through mandatory weekly sprint meetings.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+Olacademy
+
+Frontend Developer Intern · 2024 – 2025
+
+</div>
+
+Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developed interactive and responsive user interfaces using React.js.
+
+Built reusable and maintainable React components.
+
+</td>
+<td width="50%" valign="top">
+
+Worked with Redux for centralized state management.
+
+Improved application structure through reusable frontend patterns.
+
+</td>
+</tr>
+</table>
+
+🏆 EXPERIENCE HIGHLIGHTS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180">
+<h2>01</h2>
+<b>MERN Development</b><br/>
+React · Node · Express · MongoDB
+</td>
+<td align="center" width="180">
+<h2>02</h2>
+<b>AI Integration</b><br/>
+Agentic AI · N8N · OpenAI API
+</td>
+<td align="center" width="180">
+<h2>03</h2>
+<b>Cloud Deployment</b><br/>
+AWS · Docker
+</td>
+<td align="center" width="180">
+<h2>04</h2>
+<b>Backend Engineering</b><br/>
+REST APIs · Redis · System Design
+</td>
+</tr>
+</table>
+
+</div>
+
+🛠️ TECHNICAL SKILLS
+
+🌐 Frontend Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=html" width="70"/><br/><b>HTML5</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=css" width="70"/><br/><b>CSS3</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=js" width="70"/><br/><b>JavaScript</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=react" width="70"/><br/><b>React.js</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=redux" width="70"/><br/><b>Redux</b></td>
+</tr>
+</table>
+
+</div>
+
+⚙️ Backend Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=nodejs" width="70"/><br/><b>Node.js</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=express" width="70"/><br/><b>Express.js</b></td>
+<td align="center" width="115"><img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge" width="85"/><br/><b>REST API</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=firebase" width="70"/><br/><b>Firebase</b></td>
+<td align="center" width="115"><img src="https://skillicons.dev/icons?i=redis" width="70"/><br/><b>Redis</b></td>
+</tr>
+</table>
+
+</div>
+
+🤖 AI & Intelligent Systems
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Agentic%20AI-7f00ff?style=for-the-badge" width="95"/><br/><b>Agentic AI</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="95"/><br/><b>N8N</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="95"/><br/><b>OpenAI API</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/LLM-Integration-412991?style=for-the-badge" width="95"/><br/><b>LLM Integration</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AI%20Features-3549ff?style=for-the-badge" width="95"/><br/><b>AI Features</b></td>
+</tr>
+</table>
+
+</div>
+
+🗄️ Databases
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mongodb" width="70"/><br/><b>MongoDB</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mysql" width="70"/><br/><b>MySQL</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=redis" width="70"/><br/><b>Redis</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/DBMS-444444?style=for-the-badge" width="95"/><br/><b>DBMS</b></td>
+</tr>
+</table>
+
+</div>
+
+☁️ Cloud & Deployment
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=aws" width="70"/><br/><b>AWS</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=azure" width="70"/><br/><b>Azure</b></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=docker" width="70"/><br/><b>Docker</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" width="95"/><br/><b>S3</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="95"/><br/><b>CloudFront</b></td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="95"/><br/><b>EC2</b></td>
+</tr>
+</table>
+
+</div>
+
+🧱 System Design & Core CS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Scalable%20Architecture-4C8BF5?style=for-the-badge" width="130"/><br/><b>Scalable Architecture</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Microservices-555555?style=for-the-badge" width="130"/><br/><b>Microservices</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Caching-00A98F?style=for-the-badge" width="130"/><br/><b>Caching</b></td>
+<td align="center" width="160"><img src="https://img.shields.io/badge/Load%20Balancing-6C63FF?style=for-the-badge" width="130"/><br/><b>Load Balancing</b></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center"><b>Operating Systems</b></td>
+<td align="center"><b>Memory Management</b></td>
+<td align="center"><b>Computer Networks</b></td>
+<td align="center"><b>Git</b></td>
+<td align="center"><b>GitHub</b></td>
+</tr>
+</table>
+
+</div>
+
+🚀 PROJECTS
+
+<div align="center">
+
+PROJECT ZONE
+
+Production-focused applications built across full-stack, cloud and enterprise workflows.
+
+</div>
+
+🛒 DPT Tools India
+
+Enterprise Power Tools Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developed a full-stack power tools e-commerce and business management platform.
+
+Implemented product catalog and inventory management.
+
+Built order management workflows.
+
+Developed an enterprise admin dashboard.
+
+</td>
+<td width="50%" valign="top">
+
+Added role-based access for Super Admin, Admin and Staff.
+
+Added JWT authentication and Redis session management.
+
+Implemented OTP verification and Google OAuth.
+
+Added rate limiting and activity logging.
+
+</td>
+</tr>
+</table>
+
+☁️ Storage App
+
+Cloud Storage Platform · Under Maintenance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Built a cloud storage platform for secure file upload, management and sharing.
+
+Added real-time storage tracking.
+
+Designed subscription-based storage plans.
+
+Implemented plan upgrades, downgrades and cancellations.
+
+</td>
+<td width="50%" valign="top">
+
+Added webhook verification and quota enforcement.
+
+Implemented Admin and Super Admin dashboards.
+
+Added soft and hard deletion workflows.
+
+Integrated AWS S3 + CloudFront for optimized file delivery.
+
+</td>
+</tr>
+</table>
+
+🌐 Personal Portfolio Website
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Designed and developed a modern responsive portfolio.
+
+Built interactive Projects, Skills and Contact sections.
+
+Added a direct email contact form.
+
+</td>
+<td width="50%" valign="top">
+
+Implemented Jest-based testing.
+
+Optimized responsive user experience.
+
+Showcased React, Next.js, TypeScript, Node.js and modern development tools.
+
+</td>
+</tr>
+</table>
+
+🌳 Forest Department Management Dashboard
+
+Under Maintenance
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+Developing a role-based management dashboard for tree-felling records and plantation drives.
+
+Managing forest-area data and departmental updates.
+
+Building dashboards for users, administrators and management operations.
+
+</td>
+<td width="50%" valign="top">
+
+Implementing authentication and authorization.
+
+Protected routes and specialized admin controls.
+
+Centralized user management and modular backend architecture.
+
+</td>
+</tr>
+</table>
+
+📜 CERTIFICATIONS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="210"><h3>🏅 C++ SkillUp</h3><p>Programming Certification</p></td>
+<td align="center" width="210"><h3>🏅 TCS iON</h3><p>Young Professional</p></td>
+</tr>
+<tr>
+<td align="center" width="210"><h3>🏅 JPMorgan Chase & Co.</h3><p>Software Engineering</p></td>
+<td align="center" width="210"><h3>☁️ AWS</h3><p>AWS Cloud Practitioner</p></td>
+</tr>
+</table>
+
+<p><b>8+ certifications</b> are referenced in the professional summary; the resume explicitly lists the certifications above.</p>
+
+</div>
+
+📌 CORE ENGINEERING FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200"><h3>⚡ Performance</h3>API Optimization · Caching</td>
+<td align="center" width="200"><h3>🔐 Security</h3>JWT · OAuth · RBAC · Rate Limiting</td>
+<td align="center" width="200"><h3>☁️ Cloud</h3>AWS · Azure · Docker</td>
+<td align="center" width="200"><h3>🤖 AI</h3>Agentic AI · N8N · LLM Integration</td>
+</tr>
+</table>
+
+</div>
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+🔥 GITHUB STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+🔗 CONNECT WITH ME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" width="65"/></a><br/>
+<b>LinkedIn</b>
+</td>
+<td align="center" width="140">
+<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github" width="65"/></a><br/>
+<b>GitHub</b>
+</td>
+<td align="center" width="140">
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" width="65"/></a><br/>
+<b>Email</b>
+</td>
+<td align="center" width="140">
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.icons8.com/fluency/96/domain.png" width="65"/></a><br/>
+<b>Portfolio</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dushyantsaket20@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+👀 PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+🚀 Build · Learn · Deploy · Scale
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div>
