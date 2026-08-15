@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--🚀 Dushyant Saket
+🚀 Dushyant Saket
 
 Full Stack Developer | MERN Stack | AI Integration | System Design
 
